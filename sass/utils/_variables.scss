@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+$fontfamily: 'Roboto';
+$message: 'Caveat';
+
+$error: crimson;
+$bgError: pink;
+$fontcolor: #212529;
+$bgcolor: #fff3;
+$hovercolor: #e2e6ea;
+$bordercolor: rgba(0,0,0,.15);
+
+$mng-users-en: "Manage users";
+$mng-users-jp: "ユーザーを管理する";
+$mng-products-en: "Manage products";
+$mng-products-jp: "製品を管理する";
+$mng-categories-en: "Manage categories";
+$mng-categories-jp: "カテゴリを管理する";
+$mng-index-en: "Index page";
+$mng-index-jp: "インデックスページ";
+$mng-logout-en: "Logout";
+$mng-logout-jp: "ログアウト";

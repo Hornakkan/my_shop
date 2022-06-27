@@ -1,0 +1,19 @@
+{
+  "name": "c-rdg-114-fr-1-1-myshop-sebastien.lacour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechCodingAcademyPromo2022/C-RDG-114-FR-1-1-myshop-sebastien.lacour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechCodingAcademyPromo2022/C-RDG-114-FR-1-1-myshop-sebastien.lacour/issues"
+  },
+  "homepage": "https://github.com/EpitechCodingAcademyPromo2022/C-RDG-114-FR-1-1-myshop-sebastien.lacour#readme"
+}
