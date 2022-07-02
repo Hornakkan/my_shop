@@ -1,5 +1,5 @@
 # my_shop
-Epitech web fundamentals - project my_shop<br />
+Epitech Coding Academy : web fundamentals - project <i>my_shop</i><br />
 delivery method: myshop on Github<br />
 <b>languages/tools we can only use:</b> PHP, HTML, CSS (Bootstrap, Tailwind and Sass is also OK)<br />
 
