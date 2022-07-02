@@ -1,7 +1,7 @@
 # my_shop
-Epitech web fundamentals - project my_shop
-delivery method: myshop on Github
-language: PHP, HTML, CSS
+Epitech web fundamentals - project my_shop<br />
+delivery method: myshop on Github<br />
+<b>languages/tools we can only use:</b> PHP, HTML, CSS (Bootstrap, Tailwind and Sass is also OK)<br />
 
 
 How to use it : 
@@ -17,9 +17,14 @@ Website had to have these features :
 - Index page (the shop)
 - Search bar
 - Filters
+- No UI/UX given, free to create our very own design
 
 Bonuses I added : 
-- Prodcust detail page
+- Products detail page
 - Twitter, Facebook and email share
 - Possibility to upload an avatar and to display it once connected
 - Deleting products or changing an user avatar remove the file from the img folder
+
+My global design :
+- <a href="https://photos.app.goo.gl/CTcd3iywzdjkCQhn8">Index Page</a>
+- <a href="https://photos.app.goo.gl/9ShFbmyrgPoeGUgy7">Admin page</a>
