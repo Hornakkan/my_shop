@@ -26,5 +26,9 @@ Bonuses I added :
 - Deleting products or changing an user avatar remove the file from the img folder
 
 My global design :
-- <a href="https://photos.app.goo.gl/CTcd3iywzdjkCQhn8">Index Page</a>
-- <a href="https://photos.app.goo.gl/9ShFbmyrgPoeGUgy7">Admin page</a>
+
+Index Page
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEVScG5HQb0GadKrxzjkgmR4Hmh5lsJvFerGOTzsDXPdbL1t0BJ5iWSD7pRa7PUT0aCqXaeonzpiEUL-AaWf5G9ZvU2tZcmcTlE3M3uE5rTL_0S-nzbl6K1jCEXwGA4EvGhKSp3YzJIemjfBKO84plm8=w1917-h937-no?authuser=0" />
+
+Admin page
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEV6OdaOl8f2SxNrA6L3uROv-aZZQ1twxmw_2XcX_Y-3F2t5BuYam1GJ7a_0cELMkarahSRUz9j2Af0X08bGBivU7nkK8C3ZlUT3OJsinl0aXmmi-4iuD0QN5aSIuMpSveWNPYSXslgYXnaCyOhwaCWi=w1714-h937-no?authuser=0" />
